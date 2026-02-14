@@ -1,0 +1,1 @@
+EPF (Excel Pivot Fixer) modifies the pivot table structure in the file so that it does not contain calculated data sets. It also ensures that the data is kept up to date at every opening. This prevents uncalculated tables and bloated files.
